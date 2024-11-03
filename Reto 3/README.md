@@ -1,6 +1,6 @@
-## Reto #2 Parte 1
+## RETO 3
 
-Las pruebas de la realización de este laboratorio son las imagenes almacenadas en Reto2/Parte1/
+Las pruebas de la realización de este laboratorio son las imagenes almacenadas en Reto3/Evidencias/
 
 ### Cluster
 Aqui se ve el cluster creado
