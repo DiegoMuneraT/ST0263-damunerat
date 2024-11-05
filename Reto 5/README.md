@@ -12,7 +12,7 @@ Las pruebas de la realización de este laboratorio son las imagenes almacenadas 
 ![esquemadataframe](Evidencias/esquema%20del%20df.png)
 
 ### Filtro por estado
-![filtro](Evidencias/filtro%de%20estado%20leve.png)
+![filtro](Evidencias/filtro%20de%20estado%20leve.png)
 
 ### Agrupación por municipio y avg de edad
 ![agrupacion](Evidencias/agrupacion%20por%20municipio%20y%20avg%20edad.png)
