@@ -9,10 +9,10 @@ Las pruebas de la realización de este laboratorio son las imagenes almacenadas 
 ![csvfuente](Evidencias/descarga%20del%20csv.png)
 
 ### Esquema del dataframe
-![esquemadataframe](Evidencias/Esquema%20del%20df.png)
+![esquemadataframe](Evidencias/esquema%20del%20df.png)
 
 ### Filtro por estado
-![filtro](Evidencias/Tabla%20externa%20EXPO.png)
+![filtro](Evidencias/filtro%de%20estado%20leve.png)
 
 ### Agrupación por municipio y avg de edad
 ![agrupacion](Evidencias/agrupacion%20por%20municipio%20y%20avg%20edad.png)
@@ -21,7 +21,7 @@ Las pruebas de la realización de este laboratorio son las imagenes almacenadas 
 ![almacenarS3](Evidencias/comando%20para%20almacenar%20en%20s3.png)
 
 ### Datos en S3 en formato parquet
-![datosS3](Evidencias/Datos%20en%20s3.png)
+![datosS3](Evidencias/datos%20en%20s3.png)
 
 ### Archivo covid_analysis.py
 ![archivopy](Evidencias/archivo%20covid%20analysis.png)
