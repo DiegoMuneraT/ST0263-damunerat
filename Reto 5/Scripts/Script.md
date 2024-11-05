@@ -29,11 +29,11 @@ Filtrar y Analizar Datos
 Selecciona y filtra datos de interés:
 ```python
 # Filtrar datos de casos activos
-df_filtered = df.select("ID de caso", "Ciudad de ubicación", "Estado", "Edad").filter(df["Estado"] == "Activo")
+df_filtered = df.select("ID de caso", "Nombre municipio", "Estado", "Edad").filter(df["Estado"] == "Leve")
 df_filtered.show(10)  # Muestra los primeros 10 registros
 
 # Agrupar por estado y calcular promedio de edad
-df.groupBy("Estado").avg("Edad").show()
+df.groupBy("Nombre municipio").avg("Edad").show()
 ```
 
 ## 3. Guardar Datos en AWS S3 y Google Drive
